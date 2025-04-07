@@ -17,11 +17,11 @@ if (isset($_POST['jawaban'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TEBAK ANGKA</title>
+    <title>GAME TEBAK ANGKA</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Tebak Angka</h1>
+    <h1>Game Tebak Angka</h1>
     <p>Saya telah memikirkan sebuah angka antara 1 dan 100. coba tebak!</p>
     <form action="" method="post">
         <input type="number" name="jawaban" requered>
